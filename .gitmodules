@@ -1,0 +1,3 @@
+[submodule "Submodules/CPQ"]
+	path = Submodules/CPQ
+	url = https://github.com/alisonKYoung/CPQ.git
