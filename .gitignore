@@ -60,6 +60,7 @@ ExportedObj/
 
 # Unity3D generated file on crash reports
 sysinfo.txt
+db_key.txt
 
 # Builds
 *.apk
