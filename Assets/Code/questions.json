@@ -1,0 +1,164 @@
+{
+    "-1": {
+        "text": "What is your name?",
+        "type": "str",
+        "mult_choice": false
+    },
+    "0": {
+        "text": "Would you shoot me in the foot for good pizza?",
+        "type": "bool"
+    },
+    "1": {
+        "text": "If you were my parent and I came out as gay would you disown me?",
+        "type": "bool"
+    },
+    "2": {
+        "text": "If you were my parent and I came out as straight would you disown me?",
+        "type": "bool"
+    },
+    "3": {
+        "text": "Would you still be friends with me if I was short?",
+        "type": "bool"
+    },
+    "4": {
+        "text": "If you traveled back in time would you tell my mom to get an abortion?",
+        "type": "bool"
+    },
+    "5": {
+        "text": "What song would you play at my funeral?",
+        "type": "str"
+    },
+    "6": {
+        "text": "If I tripped and fell would you laugh?",
+        "type": "bool"
+    },
+    "7": {
+        "text": "If I was Alison and Alison was Amy and Amy was me, when I fall asleep where do I go?",
+        "type": "str"
+    },
+    "8": {
+        "text": "Would you hit me hard and soft?",
+        "type": "bool"
+    },
+    "9": {
+        "text": "If you killed yourself would I be happier than ever?",
+        "type": "bool"
+    },
+    "10": {
+        "text": "If you got everything you wanted would you let me get everything I wanted?",
+        "type": "bool"
+    },
+    "11": {
+        "text": "If I was modern art would I be \na black square on a white canvas \nor a black square on a black canvas \nor a white square on a white canvas \nor a white square on a black canvas",
+        "type": "bool"
+    },
+    "12": {
+        "text": "Are you indecisive? Only one answer is right. A: Yes, B: Yes, C: Yes, D: Yes",
+        "type": "str",
+        "mult_choice": true
+    },
+    "13": {
+        "text": "If this was a multiple choice question what answer would you choose?",
+        "type": "str",
+        "mult_choice": true
+    },
+    "14": {
+        "text": "If we were both old and in a retirement community would you act like you don't know me?",
+        "type": "bool"
+    },
+    "15": {
+        "text": "If I died would you pretend to have been my real friend?",
+        "type": "bool"
+    },
+    "16": {
+        "text": "If I called you by your name would you call me by my name?",
+        "type": "bool"
+    },
+    "17": {
+        "text": "Solve this with your eyes closed: 5+(5*8+5273+5318008)",
+        "type": "str",
+        "mult_choice": false
+    },
+    "18": {
+        "text": "I see without ears, I hear without eyes, I am nowhere near you, but I am everywhere without you, what am I?",
+        "type": "str",
+        "mult_choice": false
+    },
+    "19": {
+        "text": "You, Hitler, and Stalin walk into a bar.",
+        "type": "str",
+        "mult_choice": false
+    },
+    "20": {
+        "text": "Would 100 me's beat a gorilla?",
+        "type": "bool"
+    },
+    "21": {
+        "text": "Rate this joke: Your Mother",
+        "type": "int"
+    },
+    "22": {
+        "text": "Rate this joke: What is blue and smells like red paint? Red paint to a color blind person",
+        "type": "int"
+    },
+    "23": {
+        "text": "Rate this joke: 2 robots drive into a bar. The 3rd was not a Tesla.",
+        "type": "int"
+    },
+    "24": {
+        "text": "If I was Trump would you have better aim?",
+        "type": "bool"
+    },
+    "25": {
+        "text": "Would you suicide bomb citrus to end world hunger?",
+        "type": "bool"
+    },
+    "26": {
+        "text": "Conversion therapy is good yes or yes?",
+        "type": "bool"
+    },
+    "27": {
+        "text": "Would you send your favorite ADHD friend to a camp to help concentration?",
+        "type": "bool"
+    },
+    "28": {
+        "text": "Complete this sentence from my pov: 'I've been to scared to tell you this, but now I feel the time is right. I am ____'",
+        "type": "str",
+        "mult_choice": false
+    },
+    "29": {
+        "text": "How likely do you think I would be to save you from an oven?",
+        "type": "int"
+    },
+    "30": {
+        "text": "If you were in 1930's Germany how likely would you have survived?",
+        "type": "int"
+    },
+    "31": {
+        "text": "If I was the CCP would you share stuff with me?",
+        "type": "bool"
+    },
+    "32": {
+        "text": "Do you know what happened on May 35th, 1989?",
+        "type": "bool"
+    },
+    "33": {
+        "text": "When God sings with his creations, will you not be part of the choir?",
+        "type": "bool"
+    },
+    "34": {
+        "text": "Who made that last question? A: Scott, B: Alison, C: Amy, D: Someone else",
+        "type": "str",
+        "mult_choice": true
+    },
+    "35": {
+        "text": "If you were an item on the price is right how much would you be worth?",
+        "type": "str",
+        "mult_choice": false
+    },
+    "36": {
+        "text": "YOU ARE DOWN",
+        "type": "str",
+        "mult_choice": false
+    }
+}
